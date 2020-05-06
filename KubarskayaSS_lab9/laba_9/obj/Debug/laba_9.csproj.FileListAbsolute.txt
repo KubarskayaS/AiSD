@@ -1,0 +1,13 @@
+F:\university\semestr_4\AiSD\laba_9\laba_9\bin\Debug\laba_9.exe.config
+F:\university\semestr_4\AiSD\laba_9\laba_9\bin\Debug\laba_9.exe
+F:\university\semestr_4\AiSD\laba_9\laba_9\bin\Debug\laba_9.pdb
+F:\university\semestr_4\AiSD\laba_9\laba_9\obj\Debug\laba_9.csprojAssemblyReference.cache
+F:\university\semestr_4\AiSD\laba_9\laba_9\obj\Debug\laba_9.csproj.CoreCompileInputs.cache
+F:\university\semestr_4\AiSD\laba_9\laba_9\obj\Debug\laba_9.exe
+F:\university\semestr_4\AiSD\laba_9\laba_9\obj\Debug\laba_9.pdb
+E:\labs\ASD\lab9\laba_9\bin\Debug\laba_9.exe.config
+E:\labs\ASD\lab9\laba_9\obj\Debug\laba_9.exe
+E:\labs\ASD\lab9\laba_9\obj\Debug\laba_9.pdb
+E:\labs\ASD\lab9\laba_9\bin\Debug\laba_9.exe
+E:\labs\ASD\lab9\laba_9\bin\Debug\laba_9.pdb
+E:\labs\ASD\lab9\laba_9\obj\Debug\laba_9.csprojResolveAssemblyReference.cache
