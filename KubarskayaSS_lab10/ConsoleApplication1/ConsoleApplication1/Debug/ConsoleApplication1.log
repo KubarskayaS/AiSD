@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+D:\kisya\repositories\AiSD\KubarskayaSS_lab10\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,29): warning C4018: <: несоответствие типов со знаком и без знака
+D:\kisya\repositories\AiSD\KubarskayaSS_lab10\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(42,29): warning C4018: <: несоответствие типов со знаком и без знака
+D:\kisya\repositories\AiSD\KubarskayaSS_lab10\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(46,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\kisya\repositories\AiSD\KubarskayaSS_lab10\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(56,29): warning C4018: <: несоответствие типов со знаком и без знака
+D:\kisya\repositories\AiSD\KubarskayaSS_lab10\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(63,29): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> D:\kisya\repositories\AiSD\KubarskayaSS_lab10\ConsoleApplication1\Debug\ConsoleApplication1.exe
