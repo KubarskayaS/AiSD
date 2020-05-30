@@ -1,0 +1,2 @@
+module ASDL7 {
+}
